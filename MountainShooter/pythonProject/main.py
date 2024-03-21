@@ -1,4 +1,4 @@
-from code.Game import Game
+import code.Game
 
-game = Game()
+game = code.Game.Game()
 game.run()
