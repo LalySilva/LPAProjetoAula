@@ -1,9 +1,9 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 
-from Enity import Enity
+from Entity import Entity
 
-class Player(Enity):
+class Player(Entity):
     def __init__(self):
         pass
 
